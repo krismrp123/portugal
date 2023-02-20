@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=360p,RESOLUTION=1280x360
-https://global.zkshuye.cn/live/sd-1-3769559.m3u8
+https://global.zkshuye.cn/live/sd-1-3769552.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://global.zkshuye.cn/live/sd-1-3769559.m3u8?txSecret=f0c43b389ad732b3f57a3f116398b9ea&txTime=1676787324
+http://global.zkshuye.cn/live/sd-1-3769552.m3u8?txSecret=0056a73826961de3cf4170620a16a7f4&txTime=1676894769
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://l.huitaimei.com/live/sd-1-3769559.m3u8
+https://l.huitaimei.com/live/sd-1-3769552.m3u8
